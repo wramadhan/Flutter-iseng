@@ -16,9 +16,9 @@ void main() {
               title: const Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              Text('test'),
-              Text('2'),
-              TextButton(onPressed: null, child: Text('ini tombol 2'))
+              Text('Citayam'),
+              Text('Selalu'),
+              TextButton(onPressed: null, child: Text('Dihati'))
             ],
           )),
           body: GradientContainer.purple(
